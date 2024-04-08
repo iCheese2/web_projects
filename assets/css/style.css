@@ -340,11 +340,13 @@ html {
 }
 #footer .socials-list a:hover {
     opacity: 0.3;
-} 
+}
+
 #footer .copy-right {
     opacity: 0.6;
     font-size: 14px;
 }
+
 #footer .copy-right a {
     color: #000;
 }
